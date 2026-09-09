@@ -5,7 +5,19 @@
 ## About Me
 
 Hello! I am Srinivas! I am interested in software development and DevOps.
-> "Create a README for a DevOps project"
+
+```text
+Introduction
+Education
+Skills
+Projects
+Certifications
+Contact
+Image
+GitHub link
+LinkedIn link
+Markdown
+```
 
 ## Education
 
