@@ -44,4 +44,3 @@ Hello! I am Srinivas! I am interested in software development and DevOps.
 
 ```python
 print("Hello DevOps")
-```
